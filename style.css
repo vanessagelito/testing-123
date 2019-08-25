@@ -61,15 +61,15 @@ img {
   height: auto;
 }
 
-img .insta{
-			width: 400px;
-			float: left;
-		}
+.insta{
+	width: 400px;
+	float: left;
+	}
 		
-                img .linkedin{
-			width: 400px;
-			float: right;
-		}
+.linkedin{
+	  width: 400px;
+	  float: right;
+	}
 
 
 
