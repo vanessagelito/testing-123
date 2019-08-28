@@ -23,6 +23,8 @@
   color: black;
 }
 
+/*logo*/
+
 
 .center {
   display: block;
@@ -30,7 +32,18 @@
   margin-right: auto;
   width: 430px;
   height: 120px;
+  animation: drop 1.5s ease;
 }
+
+@keyframes drop {
+	0% {
+		opacity: 0;
+		transform: translateY(-80px);
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0px);
+	}
 
 /*new section*/
 
