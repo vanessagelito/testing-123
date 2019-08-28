@@ -69,13 +69,31 @@ img {
   position: relative;
   margin: auto;
   grid-gap: 10px;
-  grid-template: repeat(12, 1fr) / repeat(6, 1fr);
+  grid-template: repeat(10, 100px) / repeat(5, 100px);
 }
-
 
 
 header {
   background-color: dodgerblue;
-  grid-area: 1 / 1 / 3 / 7;
+  grid-area: 1 / 1 / 2 / 6;
+}
+
+}
+
+.left {
+  background-color: dodgerblue;
+  grid-area: 2 / 1 / 6 / 3;
+}
+
+.right {
+  background-color: beige;
+  grid-area: 2 / 3 / 9 / 6;
+}
+
+}
+
+footer {
+  background-color: dodgerblue;
+  grid-area: 10 / 1 / 11 / 6;
 }
 
