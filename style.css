@@ -74,26 +74,26 @@ img {
 
 
 header {
-  background-color: yellow;
+  background-color: DarkSalmon;
   grid-area: 1 / 1 / 2 / 6;
 }
 
 }
 
 .left {
-  background-color: pink;
+  background-color: DarkRed;
   grid-area: 2 / 1 / 6 / 3;
 }
 
 .right {
-  background-color: green;
+  background-color: DarkSeaGreen;
   grid-area: 2 / 3 / 9 / 6;
 }
 
 }
 
 footer {
-  background-color: blue;
+  background-color: SandyBrown;
   grid-area: 10 / 1 / 11 / 6;
 }
 
