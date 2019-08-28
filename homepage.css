@@ -1,5 +1,5 @@
 .container{
-max-width: 1200px;
+max-width: 1000px;
 margin: auto;
 background: #FFFFFF;
 overflow: auto;
@@ -10,7 +10,7 @@ overflow: auto;
 .gallery{
   margin: 10px;
   border: 1px solid #FFFFFF;
-  float: center;
+  float: left;
   width: 300px;
   margin-left: auto;
   margin-right: auto;
