@@ -50,6 +50,14 @@
 	background: red;
 	}
 
+.box1{
+	border: 1px solid red;
+	}
+	
+.box2{
+	border: 1px solid blue;
+	}
+	
 main {
   display: grid;
   grid-template-columns: 250px 650px;
