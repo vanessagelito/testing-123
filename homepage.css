@@ -3,18 +3,18 @@ max-width: 1200px;
 margin: auto;
 background: #FFFFFF;
 overflow: auto;
+border: 5px solid red;
 }
 
 /*border: 5px solid red;*/
 
 .gallery{
-  margin: 5px 10px 5px 10px;
+  margin: 10px 10px 10px 10px;
   border: 1px solid #FFFFFF;
   float: left;
   width: 300px;
   margin-left: auto;
   margin-right: auto;
-  border: 5px solid red
 }
 
 .gallery img{
