@@ -7,9 +7,9 @@ border: 5px solid red;
 }
 
 .gallery{
-  margin: 20px;
+  margin: 10px;
   border: 1px solid #FFFFFF;
-  float: left;
+  float: center;
   width: 300px;
   margin-left: auto;
   margin-right: auto;
