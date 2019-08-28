@@ -74,26 +74,26 @@ img {
 
 
 header {
-  background-color: dodgerblue;
+  background-color: yellow;
   grid-area: 1 / 1 / 2 / 6;
 }
 
 }
 
 .left {
-  background-color: dodgerblue;
+  background-color: pink;
   grid-area: 2 / 1 / 6 / 3;
 }
 
 .right {
-  background-color: beige;
+  background-color: green;
   grid-area: 2 / 3 / 9 / 6;
 }
 
 }
 
 footer {
-  background-color: dodgerblue;
+  background-color: blue;
   grid-area: 10 / 1 / 11 / 6;
 }
 
