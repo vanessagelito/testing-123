@@ -71,26 +71,19 @@ p {
 }
 
 header {
-  background-color: DeepPink;
   grid-area: header;
 }
 
-nav {
-  background-color: beige;
-  grid-area: nav;
-}
 
 .left {
-  background-color: FireBrick;
   grid-area: left;
 }
 
 .right {
-  background-color: Coral;
   grid-area: right;
 }
 
 footer {
-  background-color: DarkViolet;
   grid-area: footer;
 }
+
